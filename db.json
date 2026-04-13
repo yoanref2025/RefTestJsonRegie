@@ -12,31 +12,39 @@
       "uid": "544d7401-93d0-432a-8147-a0b0254562ae",
       "uid_g": "0bb708e8-f19d-40cd-afc9-09a7c84462ed",
       "nom": "Droits de Place",
-      "t_regie": "DDP",
+      "t_regie": "PLACE",
 	  "t_theme": "VERT_CLAIR",
+	  "t_ico": "marche"
+    },
+	{
+      "uid": "80d02167-683a-44e3-9e6e-ddaf6c2923a4",
+      "uid_g": "9e54dab3-fc59-4d81-830d-846088738882",
+      "nom": "Domaine Public",
+      "t_regie": "PUBLIC",
+      "t_theme": "ORANGE_CLAIR",
 	  "t_ico": "marche"
     },
     {
       "uid": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "uid_g": "9e54dab3-fc59-4d81-830d-846088738882",
-      "nom": "Foires et Marchés",
-      "t_regie": "DDP",
+      "nom": "Droits de Place",
+      "t_regie": "PLACE",
       "t_theme": "ORANGE_CLAIR",
 	  "t_ico": "marche"
     },
     {
       "uid": "01d268d8-fed9-41dd-9373-19d06059a289",
       "uid_g": "9e54dab3-fc59-4d81-830d-846088738882",
-      "nom": "Marchés Nocturnes",
-      "t_regie": "DDP",
-	  "t_theme": "VERT_FONCE",
-	  "t_ico": "marche"
+      "nom": "Piscine",
+      "t_regie": "CAISSE",
+	  "t_theme": "BLEU_FONCE ",
+	  "t_ico": "piscine"
     },
     {
       "uid": "8c087a8e-5f4d-4ae9-9350-89930ac2656f",
       "uid_g": "08eee10d-2385-4757-af4a-e96d7b758e58",
       "nom": "Occupation des Terrasses",
-      "t_regie": "ODP",
+      "t_regie": "PUBLIC",
       "t_theme": "ORANGE_FONCE",
 	  "t_ico": "terrasse"
     },
